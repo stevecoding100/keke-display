@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/keke-display/static/css/main.4edd79e3.css",
-    "main.js": "/keke-display/static/js/main.a0f27c3d.js",
+    "main.css": "/keke-display/static/css/main.14ca494c.css",
+    "main.js": "/keke-display/static/js/main.7f1cd066.js",
     "static/media/menu.png": "/keke-display/static/media/menu.45b1cb08a9f56c315183.png",
     "static/media/heropage.png": "/keke-display/static/media/heropage.52218a9833df28629b20.png",
     "static/media/location.png": "/keke-display/static/media/location.ac7723b76780e7615c14.png",
     "static/media/contact.png": "/keke-display/static/media/contact.9b13c2ae44a2cd1a4fe6.png",
     "static/media/employement.png": "/keke-display/static/media/employement.605775a8260c9b62a244.png",
     "index.html": "/keke-display/index.html",
-    "main.4edd79e3.css.map": "/keke-display/static/css/main.4edd79e3.css.map",
-    "main.a0f27c3d.js.map": "/keke-display/static/js/main.a0f27c3d.js.map"
+    "main.14ca494c.css.map": "/keke-display/static/css/main.14ca494c.css.map",
+    "main.7f1cd066.js.map": "/keke-display/static/js/main.7f1cd066.js.map"
   },
   "entrypoints": [
-    "static/css/main.4edd79e3.css",
-    "static/js/main.a0f27c3d.js"
+    "static/css/main.14ca494c.css",
+    "static/js/main.7f1cd066.js"
   ]
 }
